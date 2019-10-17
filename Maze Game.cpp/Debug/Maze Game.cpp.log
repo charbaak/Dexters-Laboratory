@@ -1,0 +1,17 @@
+﻿Build started 2/8/2018 1:11:14 PM.
+     1>Project "C:\Users\Asus\Desktop\Submission\p - Copy\Submission\Submission\Maze Game.cpp\Maze Game.cpp.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\dexterslaboratory.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Maze Game.cpp.vcxproj -> C:\Users\Asus\Desktop\Submission\p - Copy\Submission\Submission\Debug\dexterslaboratory.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\dexterslaboratory.unsuccessfulbuild".
+         Touching "Debug\dexterslaboratory.lastbuildstate".
+     1>Done Building Project "C:\Users\Asus\Desktop\Submission\p - Copy\Submission\Submission\Maze Game.cpp\Maze Game.cpp.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.11
